@@ -1,6 +1,7 @@
 # Task-Manager
 Add task to assign employees -----
-Here is login Page of App
+Here is login Page of App---
+In this Aplication Admin able to assign different tasks related to Web-development to each employee 
 
 
 
